@@ -1,10 +1,10 @@
 package TestcasesTestNG;
 
-public class GitConflict {
+public class GitPull {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Git Conflict1");
+		System.out.println("Git Push Second/SecondTestEngineerPushingCode");
 	}
 
 }
